@@ -9,5 +9,4 @@ function happyHolidayTo(hldy,nme){
   return(`Happy ${hldy},`+` $(nme)!`);
 }
 function holidayCountdown(hldy,noDays){
-  return(`It's ${noDays)`+` $(hldy)!')
-}
+  return(`It\'s $
